@@ -1,0 +1,2 @@
+# Text-Classification-and-Sentiment-Analysis-of-Blog-Posts-Using-Naive-Bayes
+This assignment focuses on building a text classification model with the Naive Bayes algorithm to categorize blog posts from the "blogs_categories.csv" dataset. It also involves conducting sentiment analysis to assess the overall sentiment expressed in these posts, enhancing your skills in Natural Language Processing (NLP).
